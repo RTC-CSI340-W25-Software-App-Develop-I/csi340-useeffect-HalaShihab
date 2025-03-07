@@ -3,7 +3,7 @@ import Cards from "./components/Cards";
 import CardDetail from "./components/CardDetail";
 import "./App.css";
 
-// Code by Gwanju Chung and Hala Shihab
+// Code by Gwanju Chung and Hala Shihab halal
 
 function App() {
 const [characters, setCharacters] = useState([]);
